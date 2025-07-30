@@ -13,7 +13,7 @@ RUN \
     && apt-get install -y --no-install-recommends \
         netcat-traditional \
         libasound2-plugins \
-        alsa-utils \
+        pulseaudio-utils \
         python3 \
         python3-pip \
     \
